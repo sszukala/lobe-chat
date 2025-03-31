@@ -1,9 +1,7 @@
-Dockerfile
-.dockerignore
-node_modules
-npm-debug.log
-.next
-.git
-.github
-*.md
-.env.example
+node_modules 
+.next 
+.git 
+**\node_modules 
+**\dist 
+**\build 
+**\.env.local 
